@@ -12,11 +12,13 @@
 .Login-Card-Logo-Min{
   width: 30%;
   min-width: 100px;
+  max-width: 200px;
 }
 
 .Login-Card-Logo-Full{
   width: 40%;
   min-width: 100px;
+  max-width: 200px;
 }
 
 .Login-Card-Title{

@@ -1,0 +1,127 @@
+.Background-Fomulario-Cadastro{
+    background-color: #5479f7;
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Formulario-cadastro {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 30px;
+    border-radius: 10px;
+    width: 35%;
+    min-width: 300px;
+    font-size: 22px;
+    font-family: "Poppins", sans-serif;
+}
+
+.Formulario-cadastro-logo{
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 5vw;
+    height: 5vw;
+    min-width: 60px;
+    min-height: 60px;
+    border-radius: 15px;
+}
+
+.Formulario-cadastro-logo img{
+    width: 80%;
+}
+
+.Formulario-cadastro-titulo {
+    color: #fff;
+    font-size: 25px;
+    font-family: "Oswald", sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Formulario-cadasreo-inputbox{
+    display: flex;
+    flex-direction: column;
+}
+
+.Formulario-cadastro-submit {
+    border-radius: 10px;
+    background-color: #FF821C;
+    height: 45px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    color: #fff;
+    font-size: 16px;
+}
+
+.Formulario-cadastro-submit:hover {
+    opacity: 0.8;
+}
+
+.Formulario-cadastro-input {
+    border-radius: 25px;
+    height: 35px;
+    color: #fff;
+    font-size: 16px;
+    padding-left: 10px;
+    outline: none;
+    border: 0;
+    background: rgba(255, 255, 255, 0.231);
+    backdrop-filter: blur( 13.5px );
+    -webkit-backdrop-filter: blur( 13.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.Formulario-cadastro-input::placeholder {
+    color: rgba(255, 255, 255, 0.689);
+}
+
+.Formulario-cadastro-input:focus{
+    background:rgba(255, 255, 255, 0.454);
+}
+
+
+.Formulario-cadastro-label {
+    color: #fff;
+    font-size: 17px;
+}
+
+.Formulario-cadastro-Login-Redirect{
+    font-size: 12px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+/**
+Acho que ela quer terminar, ela ta estranha, e nao quer mais falar comigo, sla nao sei oq ta acontecendo.    Se já tento pergunta.      Ja, mas ela nunca fala nd, ela falo que nao quer q eu fique perto dela, q quer ter um espaço e pensar, e que odeia que eu pergunte alguma coisa, tipo se ela ta bem. mas com a muniz nossa é uma perfeição, eu falei com os meninos q é bem possivel a muniz ta fazedno ela querer terminar comigo.**/
+
+/**
+como assim a m quer que a
+c
+nao sei cara, sla tudo é a muniz, domingo ela tava estranha pa carai, final de semana inteiro nao quis me chamar de amor mais, nao ta me chamando de amor, ai ela saiu com a muniz e quis ficar la com ela, eu falei q a gente precisava conversar e ela ignorou e falo q a muniz queria falar com ela. ai eu tive que ir la 22h da noite numa chuva, para ela falar para mim que a culpa era minha, que eu deixava ela ter um espaço para ela, e que eu tava atrapalhando, ai ela parou de me chamar de amor, e sempre que eu pergunto ela arruma uma confusao falando que eu nao respeito ela, que eu nao deixo ela viver
+eu ja tinha perdido a paciencia ja
+minha mae mando eu termina direto sabe, mas eu conversei com meu pai e ele falo para eu escutar oq ela tinha para dizer, domingo depois da conversa ela parecia normal. mas oq mais me chateia é q ela ta fazendo a msm coisa q minha mae fez com meu pai quando ela traiu ele.
+viado sinceramente não sei se tem possibilidade de isso dar certo não, mas realmente vc deveria terminar e no dia que vc for fazer isso escutar o que ela tem pra falar porque so da valor de verdade com perde sempre é assim 
+
+mas eu sinto que ela msm assim n vai da valor, viado ela nao muda nd, nem o minimo e fala q ta fazendo de tudo por mim, poha nd ve isso. ela so ta pensando no q ela ta fazendo.
+ela falo para mim domingo q tava chateada comigo pq eu nao tinha um emprego e queria namora com  alguem que trabalhe e tenha dinheiro, pq tipo eu tenho meu dinheiro, ela
+falo para mim q eu dependo do meu pai e tudo q eu dei para ela era com o dinheiro dele, e tipo eu trabalhava antes de namorar, entao eu tinha dinheiro guardado, mas depois do aniversario dela acabo esse dinheiro, eu ja to procurando um emprego sabe, mas sla, ela nao ta dando valor nas coisas que eu fiz por ela.
+mano, sinceramente, se ela não te da valor nos momentos dificeis e só se preocupa com o dinheiro ela não merece estar com você quando tudo melhorar. namoro não é só sair pra comer, comprar presente e tudo mais, namoro é ter alguem pra contar sempre quando as coisas derem errado, quando voce estiver mal e precisando desabafar, namoro é cumplicidade, namoro é amizade e se isso não existe infelizmente eu acho que não dá pra continuar
+
+é paixão nao amor!**/

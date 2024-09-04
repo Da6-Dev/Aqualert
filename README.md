@@ -51,6 +51,6 @@ Se você deseja contribuir com o projeto, suas sugestões e pull requests são s
 5. Abra um Pull Request
 
 ## Contato
-Para perguntas ou sugestões, entre em contato com [Seu Nome](mailto:seunome@example.com).
+Para perguntas ou sugestões, entre em contato com [Davi](mailto:gjgfgg213@gmail.com).
 
-Obrigado por acompanhar o desenvolvimento do **Nome do Projeto**! 🚀
+Obrigado por acompanhar o desenvolvimento do **Aqualert**! 🚀
